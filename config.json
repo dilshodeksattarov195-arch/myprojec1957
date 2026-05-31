@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configponnect",
+        "uuid": 18047454,
+        "checksum": "v508ps"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
